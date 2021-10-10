@@ -107,7 +107,7 @@ gg.searchNumber("-1.1144502e28", 16, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("0", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Less Recoil Activated @iorihack")
+gg.toast("Less Recoil Activated")
 end
 
 function NORECOIL()
@@ -154,7 +154,7 @@ gg.searchNumber(1091779028, gg.TYPE_DWORD, nil, nil, nil, nil)
 gg.getResults(0)
 gg.getResultsCount()
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.setVisible(false)
 gg.getResults(1)
@@ -164,7 +164,7 @@ gg.refineNumber("0.10000000149", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(50)
 gg.editAll("8", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setVisible(false)
 gg.getResults(1)
 gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -176,7 +176,7 @@ gg.getResults(0)
 gg.getResults(2)
 gg.editAll("-560", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.setVisible(false)
 gg.getResults(1)
@@ -189,7 +189,7 @@ gg.getResults(0)
 gg.getResults(10)
 gg.editAll("250", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.setVisible(false)
 gg.getResults(1)
@@ -202,7 +202,7 @@ gg.getResults(0)
 gg.getResults(99)
 gg.editAll("0", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.setVisible(false)
 gg.getResults(1)
@@ -216,7 +216,7 @@ end
 
 function A6()
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("10;45", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("10", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -249,14 +249,14 @@ gg.searchNumber("-1,883,348,481,058,764,210", gg.TYPE_QWORD, false, gg.SIGN_EQUA
 gg.getResults(100)
 gg.editAll("-1,883,348,485,055,444,540", gg.TYPE_QWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.searchNumber("-298284466;-1.304566e23F", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("-298284466", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(99)
 gg.editAll("0", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.toast("𝙸𝙽𝚂𝚃𝙰𝙽𝚃 𝙷𝙸𝚃 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴 ")
 end
 
@@ -274,7 +274,7 @@ gg.searchNumber("26", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(2)
 gg.editAll("-460", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.searchNumber("-88.73961639404;28:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(2)
@@ -286,7 +286,7 @@ gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(10)
 gg.editAll("280", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.searchNumber("-29828446;-1.3046e23F", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("-29828446", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
@@ -311,7 +311,7 @@ gg.refineNumber("30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(100)
 gg.editAll("220", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("9.20161819458;23;25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.refineNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -324,7 +324,7 @@ gg.refineNumber("23;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(3)
 gg.editAll("699", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("25;23;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(2)
@@ -345,14 +345,14 @@ gg.editAll("9999", gg.TYPE_FLOAT)
 gg.clearResults()
 gg.editAll("1.10000149", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.searchNumber("-29828466;-1.304566e23F", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("-29828466", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(99)
 gg.editAll("0", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("16000~9999;3D;0.1;1D::40", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("1600~9999", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -363,14 +363,14 @@ end
 
 function N1()
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("220;178;15", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.refineNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(440)
 gg.editAll("380", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.toast("ɪᴘᴀᴅ ᴠɪᴇᴡ 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴 ")
 end
 
@@ -381,7 +381,7 @@ gg.searchNumber("0", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(99)
 gg.editAll("-1222129996", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.toast("ʙʟᴀᴄᴋ sᴋʏ𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴 ")
 end
 
@@ -394,21 +394,21 @@ gg.refineNumber("-298,841,535", gg.TYPE_DWORD)
 gg.getResults(10)
 gg.editAll("0", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.toast("ɴᴏ ғᴏɢ 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴 ")
 end
 
 function N4()
 gg.setRanges(gg.REGION_C_DATA | gg.REGION_CODE_APP)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.setVisible(false)
 gg.searchNumber("-409,731,072;-298,841,535;-409,731,072::17", gg.TYPE_DWORD)
 gg.refineNumber("-409,731,072", gg.TYPE_DWORD)
 gg.getResults(2)
 gg.editAll("0", gg.TYPE_DWORD)
 gg.clearResults()
-gg.toast("Telegram : @iorihack")
+
 gg.toast("ʙʟᴜᴇ ғᴏɢ 𝙰𝙲𝚃𝙸𝚅𝙰𝚃𝙴 ")
 end
 
